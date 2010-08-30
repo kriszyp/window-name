@@ -5,5 +5,8 @@ require.registerPackage({
 	"mappings": {
 		"xhr-plugins": "http://packages.dojotoolkit.org/xhr-plugins.zip",
 		"secure": "http://packages.dojotoolkit.org/secure.zip"
+	},
+	"directories":{
+		"lib":"."
 	}
 });
