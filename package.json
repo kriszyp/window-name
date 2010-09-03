@@ -5,6 +5,7 @@
 	"license":["AFL", "BSD"],
 	"cla": "Dojo Foundation",
 	"mappings": {
+		"dojo": "http://packages.dojotoolkit.org/dojo.zip",
 		"dojo/io": "http://packages.dojotoolkit.org/xhr-plugins.zip",
 		"dojox/secure": "http://packages.dojotoolkit.org/secure.zip"
 	}
