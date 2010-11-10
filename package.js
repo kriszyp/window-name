@@ -20,6 +20,6 @@ Note that this is not an purely anonymous module defintion, but the module id
 should be interpreted relative to the root of the package when a package
 is registered in Dojo */
 
-require.def("window-name", [], ["dojo"], function(dojo){
+define("window-name", [], ["dojo"], function(dojo){
 //... contents of window-name module ...
 });

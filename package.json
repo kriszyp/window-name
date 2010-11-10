@@ -1,11 +1,7 @@
 {
-	"name": "window-name",
-	"author": "Kris Zyp",
-	"email": "kris@sitepen.com",
-	"license":["AFL", "BSD"],
-	"cla": "Dojo Foundation",
-	"mappings": {
-		"dojo": "http://kzyp.dojotoolkit.org/packages/dojo1.5.0.zip",
-		"dojox/secure": "http://kzyp.dojotoolkit.org/packages/secure.zip"
-	}
+  "name": "window-name",
+  "cla": "Dojo Foundation",
+  "mappings": {
+    "dojo": "https://github.com/dojo/dojo/zipball/1.0.2"
+  },
 }
