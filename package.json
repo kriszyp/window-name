@@ -1,6 +1,7 @@
 {
   "name": "window-name",
   "cla": "Dojo Foundation",
+  "description": "Provides cross-origin communication using the window-name mechanism",
   "mappings": {
     "dojo": "https://github.com/dojo/dojo/zipball/1.0.2"
   }
